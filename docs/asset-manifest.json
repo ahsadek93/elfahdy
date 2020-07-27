@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/elfahdy/static/css/main.e2dacb28.chunk.css",
+    "main.js": "/elfahdy/static/js/main.3873bb79.chunk.js",
+    "main.js.map": "/elfahdy/static/js/main.3873bb79.chunk.js.map",
+    "runtime-main.js": "/elfahdy/static/js/runtime-main.ef13be95.js",
+    "runtime-main.js.map": "/elfahdy/static/js/runtime-main.ef13be95.js.map",
+    "static/css/2.37135859.chunk.css": "/elfahdy/static/css/2.37135859.chunk.css",
+    "static/js/2.954991fe.chunk.js": "/elfahdy/static/js/2.954991fe.chunk.js",
+    "static/js/2.954991fe.chunk.js.map": "/elfahdy/static/js/2.954991fe.chunk.js.map",
+    "index.html": "/elfahdy/index.html",
+    "precache-manifest.ca3cd6a87d5003dd1faf09af91b2b5fa.js": "/elfahdy/precache-manifest.ca3cd6a87d5003dd1faf09af91b2b5fa.js",
+    "service-worker.js": "/elfahdy/service-worker.js",
+    "static/css/2.37135859.chunk.css.map": "/elfahdy/static/css/2.37135859.chunk.css.map",
+    "static/css/main.e2dacb28.chunk.css.map": "/elfahdy/static/css/main.e2dacb28.chunk.css.map",
+    "static/js/2.954991fe.chunk.js.LICENSE.txt": "/elfahdy/static/js/2.954991fe.chunk.js.LICENSE.txt",
+    "static/media/card101.png": "/elfahdy/static/media/card101.4518a229.png",
+    "static/media/card102.png": "/elfahdy/static/media/card102.6c681002.png",
+    "static/media/card103.png": "/elfahdy/static/media/card103.7f358253.png",
+    "static/media/card104.png": "/elfahdy/static/media/card104.cdacb8ab.png",
+    "static/media/card201.png": "/elfahdy/static/media/card201.21f72e31.png",
+    "static/media/card202.png": "/elfahdy/static/media/card202.6b32552a.png",
+    "static/media/card203.png": "/elfahdy/static/media/card203.996c43e6.png",
+    "static/media/card204.png": "/elfahdy/static/media/card204.801b1697.png",
+    "static/media/card301.png": "/elfahdy/static/media/card301.41bcad93.png",
+    "static/media/card302.png": "/elfahdy/static/media/card302.18a9f7ab.png",
+    "static/media/card303.png": "/elfahdy/static/media/card303.bfe47f62.png",
+    "static/media/card304.png": "/elfahdy/static/media/card304.a3b4b69b.png",
+    "static/media/slick-theme.css": "/elfahdy/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef13be95.js",
+    "static/css/2.37135859.chunk.css",
+    "static/js/2.954991fe.chunk.js",
+    "static/css/main.e2dacb28.chunk.css",
+    "static/js/main.3873bb79.chunk.js"
+  ]
+}
